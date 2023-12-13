@@ -25,7 +25,7 @@ The value of circulation rate needs to be evaluated. Click "Residence time" butt
 4.Static simulation
 Click the "run" button to get the calculation of residence time, optimal initial substrate concentration and actual substrate utilization condition in the "results" section. q_i/q_i^* refers to η_i, which indicates system stability.
 5.Dynamic simulation
-The outcoming of dynamic simulation is based on the results of static simulation. Click the "dynamic" window to switch interface. The time scale of simulation is second. After clicking "run", the program will simulate the whole fermentation process in the background and give the comparison diagram of the three compartments (Biomass, Substrate, Product, Productivity, Regime, Growth rate).
+The outcoming of dynamic simulation is based on the results of static simulation. Click the "dynamic" window to switch interface. The time scale of simulation is second. After clicking "run", the program will simulate the whole fermentation process in the background and give the comparison diagram of the three compartments (Biomass, Substrate, Product, Precursor, Productivity, Regime, Growth rate).
  
 
 # Simulator
